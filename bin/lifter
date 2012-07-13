@@ -1,0 +1,4 @@
+#!/usr/bin/env node
+// vim:ts=4:sw=4:syntax=javascript
+process.stdin.resume();
+require('..').cli.run(process.stdin, process.stdout);
