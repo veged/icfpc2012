@@ -1,3 +1,3 @@
 ### Readme
 
-See [wiki](wiki/Ideas) for details.
+See [wiki](https://github.com/veged/icfpc2012/wiki/Ideas) for details.
